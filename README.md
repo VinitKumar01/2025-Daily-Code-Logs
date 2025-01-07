@@ -12,3 +12,5 @@ This repo is log of what i coded each day in 2025.
 5-1-2025 || Learnt about Web Accessibility.
 
 6-1-2025 || Completed the build your own HTTP server challenge of codecrafters.
+
+7-1-2025m|| Learned about DNS and UDP.
