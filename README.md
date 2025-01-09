@@ -16,3 +16,5 @@ This repo is log of what i coded each day in 2025.
 7-1-2025m|| Learned about DNS and UDP.
 
 8-1-2025 || Coded my own DNS till 2nd challenge of codecrafters.
+
+9-1-2025 || Learned about the question section in a DNS request.
