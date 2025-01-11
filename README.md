@@ -20,3 +20,5 @@ This repo is log of what i coded each day in 2025.
 9-1-2025 || Learned about the question section in a DNS request.
 
 10-1-2025 || Revised some baiscs of javascript objects.
+
+11-1-2025 || Learned about plugable authentication modules in linux.
