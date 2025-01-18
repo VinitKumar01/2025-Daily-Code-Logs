@@ -34,3 +34,5 @@ This repo is log of what i coded each day in 2025.
 16-1-2025 || Revised mongodb integration in nodejs.
 
 17-1-2025 || Coded my own git till 4th stage of codecrafters.
+
+18-1-2025 || Learnt about AI Agents.
