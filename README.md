@@ -36,3 +36,5 @@ This repo is log of what i coded each day in 2025.
 17-1-2025 || Coded my own git till 4th stage of codecrafters.
 
 18-1-2025 || Learnt about AI Agents.
+
+19-1-2025 || Coded some javascript challenges.
