@@ -1,5 +1,7 @@
-o# 2025-Daily-Code
+# 2025-Daily-Code
 This repo is log of what i coded each day in 2025.
+
+------------------------------------------------------------January------------------------------------------------------------
 
 1-1-2025 || Learnt version control system (Git).
 
