@@ -40,3 +40,5 @@ This repo is log of what i coded each day in 2025.
 18-1-2025 || Learnt about AI Agents.
 
 19-1-2025 || Coded some javascript challenges.
+
+20-1-2025 || Coded some DOM and Events javascript challenges.
