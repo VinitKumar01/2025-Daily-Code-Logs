@@ -42,3 +42,5 @@ This repo is log of what i coded each day in 2025.
 19-1-2025 || Coded some javascript challenges.
 
 20-1-2025 || Coded some DOM and Events javascript challenges.
+
+21-1-2025 || Learnt about some advanced typescript apis.
