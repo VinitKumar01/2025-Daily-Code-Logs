@@ -46,3 +46,5 @@ This repo is log of what i coded each day in 2025.
 21-1-2025 || Learnt about some advanced typescript apis.
 
 22-1-2025 || Learnt about recoil state manager.
+
+23-1-2025 || Learnt about PWA react js.
