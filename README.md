@@ -48,3 +48,5 @@ This repo is log of what i coded each day in 2025.
 22-1-2025 || Learnt about recoil state manager.
 
 23-1-2025 || Learnt about PWA react js.
+
+24-1-2025 || Tried to implement AI to a project - failed.
