@@ -52,3 +52,5 @@ This repo is log of what i coded each day in 2025.
 24-1-2025 || Tried to implement AI to a project - failed.
 
 25-1-2025 || Implemented openai apis over a websocket server.
+
+26-1-2025 || Implemented Gemini apis with a chat app.
