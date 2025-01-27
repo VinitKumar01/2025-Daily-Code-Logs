@@ -54,3 +54,5 @@ This repo is log of what i coded each day in 2025.
 25-1-2025 || Implemented openai apis over a websocket server.
 
 26-1-2025 || Implemented Gemini apis with a chat app.
+
+27-1-2025 || Coded a part of yt video summarier using AI to vectors.
