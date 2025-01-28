@@ -56,3 +56,5 @@ This repo is log of what i coded each day in 2025.
 26-1-2025 || Implemented Gemini apis with a chat app.
 
 27-1-2025 || Coded a part of yt video summarier using AI to vectors.
+
+28-1-2025 || Revised Solidity.
