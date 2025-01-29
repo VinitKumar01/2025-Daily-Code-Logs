@@ -58,3 +58,5 @@ This repo is log of what i coded each day in 2025.
 27-1-2025 || Coded a part of yt video summarier using AI to vectors.
 
 28-1-2025 || Revised Solidity.
+
+29-1-2025 || Added Ai yt video summariser to my second brain project.
