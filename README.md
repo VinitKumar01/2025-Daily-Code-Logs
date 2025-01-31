@@ -61,4 +61,8 @@ This repo is log of what i coded each day in 2025.
 
 29-1-2025 || Added Ai yt video summariser to my second brain project.
 
-30-1-25 || Completed the youtube ai part of the second brain project.
+30-1-2025 || Completed the youtube ai part of the second brain project.
+
+31-1-2025 || Fixed some ai issues in the second brain project.
+
+------------------------------------------------------------February------------------------------------------------------------
