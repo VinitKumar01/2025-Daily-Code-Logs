@@ -66,3 +66,5 @@ This repo is log of what i coded each day in 2025.
 31-1-2025 || Fixed some ai issues in the second brain project.
 
 ------------------------------------------------------------February------------------------------------------------------------
+
+1-2-2025 || Learnt some basics of framer motion.
