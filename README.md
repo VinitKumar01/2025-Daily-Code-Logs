@@ -67,4 +67,6 @@ This repo is log of what i coded each day in 2025.
 
 ------------------------------------------------------------February------------------------------------------------------------
 
-1-2-2025 || Learnt some basics of framer motion.
+1-2-2025 || Learnt some basics of Framer Motion.
+
+2-2-2025 || Learnt basics of Three Js.
