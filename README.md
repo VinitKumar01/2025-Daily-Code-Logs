@@ -70,3 +70,5 @@ This repo is log of what i coded each day in 2025.
 1-2-2025 || Learnt some basics of Framer Motion.
 
 2-2-2025 || Learnt basics of Three Js.
+
+3-2-2025 || Learnt some basics about postgres and sql.
