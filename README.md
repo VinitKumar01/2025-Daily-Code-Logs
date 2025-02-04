@@ -72,3 +72,5 @@ This repo is log of what i coded each day in 2025.
 2-2-2025 || Learnt basics of Three Js.
 
 3-2-2025 || Learnt some basics about postgres and sql.
+
+4-2-2025 || Learnt more about sql databases like joints, foreign keys, transactions and sql injection.
