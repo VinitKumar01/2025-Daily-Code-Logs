@@ -76,3 +76,5 @@ This repo is log of what i coded each day in 2025.
 4-2-2025 || Learnt more about sql databases like joints, foreign keys, transactions and sql injection.
 
 5-2-2025 || Learnt about Prisma or ORMs.
+
+6-2-2025 || Learnt basic nextjs or SSR.
