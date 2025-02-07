@@ -78,3 +78,5 @@ This repo is log of what i coded each day in 2025.
 5-2-2025 || Learnt about Prisma or ORMs.
 
 6-2-2025 || Learnt basic nextjs or SSR.
+
+7-2-2025 || Learnt routing in nextjs.
