@@ -80,3 +80,5 @@ This repo is log of what i coded each day in 2025.
 6-2-2025 || Learnt basic nextjs or SSR.
 
 7-2-2025 || Learnt routing in nextjs.
+
+8-2-2025 || Learnt NextAuth, OAuth, getSession, getServerSession.
