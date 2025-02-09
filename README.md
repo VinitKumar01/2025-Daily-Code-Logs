@@ -82,3 +82,5 @@ This repo is log of what i coded each day in 2025.
 7-2-2025 || Learnt routing in nextjs.
 
 8-2-2025 || Learnt NextAuth, OAuth, getSession, getServerSession.
+
+9-2-2025 || Fixed some bugs in the second-brain project and also tried some webscraping AIs to integrate with second-brain in future.
