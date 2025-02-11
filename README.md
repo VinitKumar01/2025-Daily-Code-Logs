@@ -86,3 +86,5 @@ This repo is log of what i coded each day in 2025.
 9-2-2025 || Fixed some bugs in the second-brain project and also tried some webscraping AIs to integrate with second-brain in future.
 
 10-2-2025 || Learnt some introductory C programming.
+
+11-2-2025 || Learnt some more C/C++ concepts.
