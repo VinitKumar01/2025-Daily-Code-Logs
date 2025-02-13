@@ -88,3 +88,5 @@ This repo is log of what i coded each day in 2025.
 10-2-2025 || Learnt some introductory C programming.
 
 11-2-2025 || Learnt some more C/C++ concepts.
+
+12-2-2025 || Leant about functions, arrays, control flow in cpp.
