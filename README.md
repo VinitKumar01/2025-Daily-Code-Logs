@@ -94,3 +94,6 @@ This repo is log of what i coded each day in 2025.
 13-2-2025 || Learnt OOP in cpp.
 
 14-2-2025 || Learnt about encaptulation, getter/setter, friend keyword, virtual keyword, abstract classes, inheritance.
+
+15-2-2025 || Tried to solve some basic programming problems using cpp for practice.
+
