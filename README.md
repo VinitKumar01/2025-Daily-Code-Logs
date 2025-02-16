@@ -97,3 +97,5 @@ This repo is log of what i coded each day in 2025.
 
 15-2-2025 || Tried to solve some basic programming problems using cpp for practice.
 
+16-2-2025 || Learnt DSA -> Time complexity and Solved 12 pattern printing questions.
+
