@@ -99,3 +99,6 @@ This repo is log of what i coded each day in 2025.
 
 16-2-2025 || Learnt DSA -> Time complexity and Solved 12 pattern printing questions.
 
+17-2-2025 || Learnt DSA -> Done some more pattern printing questions.
+
+
