@@ -101,4 +101,5 @@ This repo is log of what i coded each day in 2025.
 
 17-2-2025 || Learnt DSA -> Done some more pattern printing questions.
 
+18-2-2025 || Done total 22 types of patterns till now (easy, medium and hard).
 
