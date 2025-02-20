@@ -104,3 +104,5 @@ This repo is log of what i coded each day in 2025.
 18-2-2025 || Done total 22 types of patterns till now (easy, medium and hard).
 
 19-2-2025 || Learnt about monorepo and turborepo also coded ai part for twitter in second brain project.
+
+20-2-2025 || Learnt initial stl library in c++ also coded some framer motion animations in the second brain project.
