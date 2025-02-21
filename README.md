@@ -106,3 +106,5 @@ This repo is log of what i coded each day in 2025.
 19-2-2025 || Learnt about monorepo and turborepo also coded ai part for twitter in second brain project.
 
 20-2-2025 || Learnt initial stl library in c++ also coded some framer motion animations in the second brain project.
+
+21-2-2025 || Leanrt pair, vectors, list, deque, queue, stack, priority queue, set, multi set, unordered set, map, multi map, sort etc. in STL cpp. 
