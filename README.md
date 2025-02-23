@@ -89,7 +89,7 @@ This repo is log of what i coded each day in 2025.
 
 11-2-2025 || Learnt some more C/C++ concepts.
 
-12-2-2025 || Leant about functions, arrays, control flow in cpp.
+12-2-2025 || Learnt about functions, arrays, control flow in cpp.
 
 13-2-2025 || Learnt OOP in cpp.
 
@@ -110,3 +110,5 @@ This repo is log of what i coded each day in 2025.
 21-2-2025 || Learnt pair, vectors, list, deque, queue, stack, priority queue, set, multi set, unordered set, map, multi map, sort etc. in STL cpp.
 
 22-2-2025 || Built a basic turborepo chat application.
+
+23-2-2025 || Learnt about recrsion and backtracking.
