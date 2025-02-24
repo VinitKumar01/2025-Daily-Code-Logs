@@ -112,3 +112,5 @@ This repo is log of what i coded each day in 2025.
 22-2-2025 || Built a basic turborepo chat application.
 
 23-2-2025 || Learnt about recrsion and backtracking.
+
+24-2-2025 || Learnt about some turborepo configurations.
