@@ -114,3 +114,5 @@ This repo is log of what i coded each day in 2025.
 23-2-2025 || Learnt about recrsion and backtracking.
 
 24-2-2025 || Learnt about some turborepo configurations.
+
+25-2-2025 || Learnt DSA -> Digit count, Reverse of number, Palindrome, Angstrong Number, Find all divisors of a number, Prime number, GCD or HCF.
