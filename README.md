@@ -118,3 +118,5 @@ This repo is log of what i coded each day in 2025.
 25-2-2025 || Learnt DSA -> Digit count, Reverse of number, Palindrome, Angstrong Number, Find all divisors of a number, Prime number, GCD or HCF.
 
 26-2-2025 || Learnt more about CSR vs SSR vs SSG in nextsj.
+
+27-2-2025 || Coded the basic routes and database schemas for PayTM project.
