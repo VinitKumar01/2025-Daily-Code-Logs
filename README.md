@@ -120,3 +120,5 @@ This repo is log of what i coded each day in 2025.
 26-2-2025 || Learnt more about CSR vs SSR vs SSG in nextsj.
 
 27-2-2025 || Coded the basic routes and database schemas for PayTM project.
+
+28-2-2025 || Coded some more routes and schema for PayTM project.
