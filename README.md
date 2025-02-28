@@ -121,4 +121,4 @@ This repo is log of what i coded each day in 2025.
 
 27-2-2025 || Coded the basic routes and database schemas for PayTM project.
 
-28-2-2025 || Coded some more routes and schema for PayTM project.
+28-2-2025 || Coded some more routes and schema for PayTM project and Learnt some linux commands.
