@@ -111,7 +111,7 @@ This repo is log of what i coded each day in 2025.
 
 22-2-2025 || Built a basic turborepo chat application.
 
-23-2-2025 || Learnt about recrsion and backtracking.
+23-2-2025 || Learnt about recursion and backtracking.
 
 24-2-2025 || Learnt about some turborepo configurations.
 
@@ -126,3 +126,5 @@ This repo is log of what i coded each day in 2025.
 ------------------------------------------------------------March------------------------------------------------------------
 
 1-3-2025 || Learnt and coded some dsa problems.
+
+2-3-2025 || Coded all the essential endpoints for PayTM project, Also Learnt remaining recursion concepts like multiple recursion calls, parameterised recursion, functional recursion etc.
