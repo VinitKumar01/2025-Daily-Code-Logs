@@ -128,3 +128,5 @@ This repo is log of what i coded each day in 2025.
 1-3-2025 || Learnt and coded some dsa problems.
 
 2-3-2025 || Coded all the essential endpoints for PayTM project, Also Learnt remaining recursion concepts like multiple recursion calls, parameterised recursion, functional recursion etc.
+
+3-2-2025 || Coded Signup, Signin pages along with basic components like button, heading, sub-heading, input, bottom-warning etc. for PayTM project.
