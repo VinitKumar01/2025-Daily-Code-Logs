@@ -132,3 +132,5 @@ This repo is log of what i coded each day in 2025.
 3-3-2025 || Coded Signup, Signin pages along with basic components like button, heading, sub-heading, input, bottom-warning etc. for PayTM project.
 
 4-3-2025 || Completed the PayTM project.
+
+5-3-2025 || Coded and configured the initial part of the excalidraw project.
