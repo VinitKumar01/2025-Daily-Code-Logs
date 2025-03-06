@@ -134,3 +134,5 @@ This repo is log of what i coded each day in 2025.
 4-3-2025 || Completed the PayTM project.
 
 5-3-2025 || Coded and configured the initial part of the excalidraw project.
+
+6-3-2025 || Figured out the right configurations in excalidraw project and also added backend to it.
