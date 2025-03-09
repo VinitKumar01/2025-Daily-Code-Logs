@@ -140,3 +140,5 @@ This repo is log of what i coded each day in 2025.
 7-3-2025 || Learnt and coded hashing -> DSA.
 
 8-3-2025 || Wrapped excalidraw project http backend. Also initialzed websocket server.
+
+9-3-2025 || Coded some fixes and routes in excalidraw project also learnt basic sorting concepts like selection sort.
