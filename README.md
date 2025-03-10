@@ -142,3 +142,5 @@ This repo is log of what i coded each day in 2025.
 8-3-2025 || Wrapped excalidraw project http backend. Also initialzed websocket server.
 
 9-3-2025 || Coded some fixes and routes in excalidraw project also learnt basic sorting concepts like selection sort.
+
+10-3-2025 || learnt DSA -> Bubble Sort, Insertion Sort. Also learnt tailwindcss v4.0 configurations.
