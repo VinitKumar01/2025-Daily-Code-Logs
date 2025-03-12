@@ -146,3 +146,5 @@ This repo is log of what i coded each day in 2025.
 10-3-2025 || Learnt DSA -> Bubble Sort, Insertion Sort. Also learnt tailwindcss v4.0 configurations.
 
 11-3-2025 || Practiced DSA questions by ChatGPT.
+
+12-3-2025 || Learnt some new linux configurations.
