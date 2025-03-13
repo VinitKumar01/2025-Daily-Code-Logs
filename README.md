@@ -148,3 +148,5 @@ This repo is log of what i coded each day in 2025.
 11-3-2025 || Practiced DSA questions by ChatGPT.
 
 12-3-2025 || Learnt some new linux configurations.
+
+13-3-2025 || Learnt hyprland configurations.
