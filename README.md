@@ -150,3 +150,5 @@ This repo is log of what i coded each day in 2025.
 12-3-2025 || Learnt some new linux configurations.
 
 13-3-2025 || Learnt hyprland configurations.
+
+14-5-2025 || Added some components to excalidraw project, also went through some opensource repos.
