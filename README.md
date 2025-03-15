@@ -152,3 +152,5 @@ This repo is log of what i coded each day in 2025.
 13-3-2025 || Learnt hyprland configurations.
 
 14-5-2025 || Added some components to excalidraw project, also went through some opensource repos.
+
+15-5-2025 || Learnt about server actions in nextjs and also completed signup and signin pages in excalidraw project.
