@@ -156,3 +156,5 @@ This repo is log of what i coded each day in 2025.
 15-3-2025 || Learnt about server actions in nextjs and also completed signup and signin pages in excalidraw project.
 
 16-3-2025 || Learnt about how to work with canvas also implemented the basic canvas functionality to the excalidraw project.
+
+17-3-2025 || Fixed the canvas functionality of the excalidraw project.
