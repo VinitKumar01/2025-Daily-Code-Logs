@@ -160,3 +160,5 @@ This repo is log of what i coded each day in 2025.
 17-3-2025 || Fixed the canvas functionality of the excalidraw project.
 
 18-3-2025 || Implemented room search and create functionality in excalidraw project.
+
+19-3-2025 || Fixed the room creation and joining issue in excalidraw project.
