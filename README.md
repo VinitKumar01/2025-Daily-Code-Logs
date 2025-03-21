@@ -164,3 +164,5 @@ This repo is log of what i coded each day in 2025.
 19-3-2025 || Fixed the room creation and joining issue in excalidraw project.
 
 20-3-2025 || Boiler plate websocket connection code added to excalidraw project.
+
+21-3-2025 || Fixed the websocket client side logic in excalidraw project.
