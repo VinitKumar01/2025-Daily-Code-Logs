@@ -166,3 +166,5 @@ This repo is log of what i coded each day in 2025.
 20-3-2025 || Boiler plate websocket connection code added to excalidraw project.
 
 21-3-2025 || Fixed the websocket client side logic in excalidraw project.
+
+22-3-2025 || Added the chat fetching logic from database in excalidraw project.
