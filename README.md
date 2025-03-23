@@ -168,3 +168,5 @@ This repo is log of what i coded each day in 2025.
 21-3-2025 || Fixed the websocket client side logic in excalidraw project.
 
 22-3-2025 || Added the chat fetching logic from database in excalidraw project.
+
+23-3-2025 || Revised cpp basic syntax.
