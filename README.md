@@ -176,3 +176,5 @@ This repo is log of what i coded each day in 2025.
 25-3-2025 || Revised DSA.
 
 26-3-2025 ||Rewriting the whole canvas functionality of excalidraw project.
+
+27-3-2025 || Completed the rewrite in excalidraw project.
