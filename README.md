@@ -180,3 +180,5 @@ This repo is log of what i coded each day in 2025.
 27-3-2025 || Completed the rewrite in excalidraw project.
 
 28-3-2025 || Added circle drawing functionality in excalidraw project.
+
+29-3-2025 || Made some changes in excalidraw project and Learnt about more canvas shapes.
