@@ -184,3 +184,5 @@ This repo is log of what i coded each day in 2025.
 29-3-2025 || Made some changes in excalidraw project and Learnt about more canvas shapes.
 
 30-3-2025 || Reafctored the canvas logic of excalidraw project and added the line draw functionality.
+
+31-3-2025 || Coded the pencil functionality of excalidraw project.
