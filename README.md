@@ -175,7 +175,7 @@ This repo is log of what i coded each day in 2025.
 
 25-3-2025 || Revised DSA.
 
-26-3-2025 ||Rewriting the whole canvas functionality of excalidraw project.
+26-3-2025 || Rewriting the whole canvas functionality of excalidraw project.
 
 27-3-2025 || Completed the rewrite in excalidraw project.
 
@@ -186,3 +186,7 @@ This repo is log of what i coded each day in 2025.
 30-3-2025 || Reafctored the canvas logic of excalidraw project and added the line draw functionality.
 
 31-3-2025 || Coded the pencil functionality of excalidraw project.
+
+---------------------------------------------------------April------------------------------------------------------
+
+1-4-2025 || Coded the text functionality of excalidraw project and also learnt basics of devops -> Basic newtorking stuff.
