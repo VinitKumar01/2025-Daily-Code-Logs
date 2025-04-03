@@ -193,4 +193,4 @@ This repo is log of what i coded each day in 2025.
 
 2-4-2025 || Added landing page to excalidraw project and learnt more devops concepts like reverse proxy.
 
-3-4-2035 || Changed some UI in excalidraw project.
+3-4-2025 || Changed some UI in excalidraw project.
