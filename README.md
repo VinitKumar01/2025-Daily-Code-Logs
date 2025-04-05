@@ -196,3 +196,5 @@ This repo is log of what i coded each day in 2025.
 3-4-2025 || Changed some UI in excalidraw project.
 
 4-4-2025 || Learnt Rust lang basics -> mutable/immutable, functions, conditionals, loops, ownership etc.
+
+5-4-2025 || Learnt more rust topics -> structs, enums, pattern matching, borrowing and rerferences etc.
