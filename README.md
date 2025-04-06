@@ -198,3 +198,5 @@ This repo is log of what i coded each day in 2025.
 4-4-2025 || Learnt Rust lang basics -> mutable/immutable, functions, conditionals, loops, ownership etc.
 
 5-4-2025 || Learnt more rust topics -> structs, enums, pattern matching, borrowing and rerferences etc.
+
+6-4-2025 || Learnt more rust -> Generics, traits, trait bound etc. Also bulilt a basic calculator desktop app with tauri and Dioxus using Rust. 
