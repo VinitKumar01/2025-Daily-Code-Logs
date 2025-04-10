@@ -206,3 +206,5 @@ This repo is log of what i coded each day in 2025.
 8-4-2025 || Learnt macros in rust and solved rustilings till exercise 7.
 
 9-4-2025 || Learnt about lifetimes in rust and also solved some rustling exercises.
+
+10-4-2025 || Learnt crates, modules, packages etc. in rust.
