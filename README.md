@@ -207,4 +207,4 @@ This repo is log of what i coded each day in 2025.
 
 9-4-2025 || Learnt about lifetimes in rust and also solved some rustling exercises.
 
-10-4-2025 || Learnt crates, modules, packages etc. in rust.
+10-4-2025 || Learnt crates, modules, packages etc. also some part of serde and boash library in rust.
