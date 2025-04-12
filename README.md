@@ -210,3 +210,5 @@ This repo is log of what i coded each day in 2025.
 10-4-2025 || Learnt crates, modules, packages etc. also some part of serde and boash library in rust.
 
 11-4-2025 || Started new project - Youtube end to end clone.
+
+12-4-2025 || Coded basic home page layout, added authentication, setup database with clerk weebhooks etc.
