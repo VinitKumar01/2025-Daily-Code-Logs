@@ -213,4 +213,6 @@ This repo is log of what i coded each day in 2025.
 
 12-4-2025 || Coded basic layouts, added authentication, setup database with clerk webhooks etc.
 
-13-4-2025|| Added trpc setup & configurations, ratelimiter etc. to youtube project.
+13-4-2025  || Added trpc setup & configurations, ratelimiter etc. to youtube project.
+
+14-4-2025 || Learnt more about trpc, Also coded the video categories schema, seeding, ui etc. in youtube project.
