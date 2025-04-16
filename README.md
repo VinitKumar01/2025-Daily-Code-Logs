@@ -218,3 +218,5 @@ This repo is log of what i coded each day in 2025.
 14-4-2025 || Learnt more about trpc, Also coded the video categories schema, seeding, ui etc. in youtube clone project.
 
 15-4-2025 || Coded the studio page layout in youtube clone project.
+
+16-4-2025 || Coded the video schema, studio procedure, create procedure and also some ui additions to the youtube clone project.
