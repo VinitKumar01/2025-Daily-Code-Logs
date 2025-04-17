@@ -220,3 +220,5 @@ This repo is log of what i coded each day in 2025.
 15-4-2025 || Coded the studio page layout in youtube clone project.
 
 16-4-2025 || Coded the video schema, studio procedure, create procedure and also some ui additions to the youtube clone project.
+
+17-4-2025 || Coded a basic nextjs trpc templete for practice and future use.
