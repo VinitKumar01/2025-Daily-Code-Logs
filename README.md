@@ -222,3 +222,5 @@ This repo is log of what i coded each day in 2025.
 16-4-2025 || Coded the video schema, studio procedure, create procedure and also some ui additions to the youtube clone project.
 
 17-4-2025 || Coded a basic nextjs trpc templete for practice and future use.
+
+18-4-2025 || Coded infinite scroll for videos in studio, also improved the video section ui.
