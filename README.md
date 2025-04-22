@@ -230,3 +230,5 @@ This repo is log of what i coded each day in 2025.
 20-4-2025 || Revised rust basics, also built a rust cli tool -> grep.
 
 21-4-2025 || Revised some DSA topics by rewriting in rust.
+
+22-4-2025 || Completed the remaining mux webhook events (both server and client) in youtube clone project.
