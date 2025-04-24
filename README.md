@@ -234,3 +234,5 @@ This repo is log of what i coded each day in 2025.
 22-4-2025 || Completed the remaining mux webhook events (both server and client) in youtube clone project.
 
 23-4-2025 || Coded half of the video page in youtube clone project.
+
+24-4-2025 || Solved some recursion problems for practice in rust>
