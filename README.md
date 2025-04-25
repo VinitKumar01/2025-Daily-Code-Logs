@@ -235,4 +235,6 @@ This repo is log of what i coded each day in 2025.
 
 23-4-2025 || Coded half of the video page in youtube clone project.
 
-24-4-2025 || Solved some recursion problems for practice in rust>
+24-4-2025 || Solved some recursion problems for practice in rust.
+
+25-4-2025 || Coded the complete video form page to modify uploaded videos in youtube clone project.
