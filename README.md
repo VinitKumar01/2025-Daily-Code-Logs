@@ -240,3 +240,5 @@ This repo is log of what i coded each day in 2025.
 25-4-2025 || Coded the complete video form page to modify uploaded videos in youtube clone project.
 
 26-4-2025 || Coded the custom video thumbnail functionality in youtube clone project.
+
+27-4-2025 || Coded Ai background jobs in youtube clone project.
