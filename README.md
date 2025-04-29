@@ -244,3 +244,5 @@ This repo is log of what i coded each day in 2025.
 27-4-2025 || Coded Ai background jobs in youtube clone project.
 
 28-4-2025 || Coded the Ai thumbnail generation in youtube clone project.
+
+29-4-2025 || Coded skeleton suspense for videos page in youtube clone project.
