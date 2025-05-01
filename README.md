@@ -249,4 +249,6 @@ This repo is log of what i coded each day in 2025.
 
 30-4-2025 || Neovim configurations done and also went through arch wiki.
 
+-----------------------May---------------------------
+
 1-5-2025 || Learnt some devops (continious development) also learnt some git internals.
