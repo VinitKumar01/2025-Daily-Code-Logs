@@ -237,7 +237,7 @@ This repo is log of what i coded each day in 2025.
 
 24-4-2025 || Solved some recursion problems for practice in rust.
 
-25-4-2025 || Coded the complete video form page to modify uploaded videos in youtube clone project.
+25-4-2025 || Coded the complete video form page to modify uploaded
 
 26-4-2025 || Coded the custom video thumbnail functionality in youtube clone project.
 
@@ -248,3 +248,5 @@ This repo is log of what i coded each day in 2025.
 29-4-2025 || Coded skeleton suspense for videos page in youtube clone project.
 
 30-4-2025 || Neovim configurations done and also went through arch wiki.
+
+1-5-2025 || Learnt some devops (continious development) also learnt some git internals.
