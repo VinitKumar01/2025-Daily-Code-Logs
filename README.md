@@ -1,4 +1,5 @@
 # 2025-Daily-Code
+
 This repo is log of what i coded each day in 2025.
 
 ------------------------------------------------------------January------------------------------------------------------------
@@ -213,7 +214,7 @@ This repo is log of what i coded each day in 2025.
 
 12-4-2025 || Coded basic layouts, added authentication, setup database with clerk webhooks etc.
 
-13-4-2025  || Added trpc setup & configurations, ratelimiter etc. to youtube project.
+13-4-2025 || Added trpc setup & configurations, ratelimiter etc. to youtube project.
 
 14-4-2025 || Learnt more about trpc, Also coded the video categories schema, seeding, ui etc. in youtube clone project.
 
@@ -252,3 +253,5 @@ This repo is log of what i coded each day in 2025.
 -----------------------May---------------------------
 
 1-5-2025 || Learnt some devops (continious development) also learnt some git internals.
+
+2-5-2025 || Went through continious development configurations of open source repos
