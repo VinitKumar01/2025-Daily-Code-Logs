@@ -257,3 +257,5 @@ This repo is log of what i coded each day in 2025.
 2-5-2025 || Went through continious development configurations of open source repos
 
 3-5-2025 || Learnt docker -> Executing images, building own images, publishing on hub.docker.com, etc.
+
+4-5-2025 || Learnt more about Docker -> layers, volumes, network, dockerfile optimizations etc.
