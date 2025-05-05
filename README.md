@@ -259,3 +259,5 @@ This repo is log of what i coded each day in 2025.
 3-5-2025 || Learnt docker -> Executing images, building own images, publishing on hub.docker.com, etc.
 
 4-5-2025 || Learnt more about Docker -> layers, volumes, network, dockerfile optimizations etc.
+
+5-5-2025 || Learnt docker compose (coded a small project and build it using docker compose method).
