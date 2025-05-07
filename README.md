@@ -263,3 +263,5 @@ This repo is log of what i coded each day in 2025.
 5-5-2025 || Learnt docker compose (coded a small project and build it using docker compose method).
 
 6-5-2025 || Went through docker-compose.yml file of some opensource repos.
+
+7-5-2025 || Wrote Dockerfile and docker-compose.yml file for my old projects to practice.
