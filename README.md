@@ -267,3 +267,5 @@ This repo is log of what i coded each day in 2025.
 7-5-2025 || Wrote Dockerfile and docker-compose.yml file for my old projects to practice.
 
 8-5-2025 || Revised Rust basics by solving some basic dsa problems.
+
+9-5-2025 || Revised rust ownership and macros
