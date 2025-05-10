@@ -269,3 +269,5 @@ This repo is log of what i coded each day in 2025.
 8-5-2025 || Revised Rust basics by solving some basic dsa problems.
 
 9-5-2025 || Revised rust ownership and macros
+
+10-5-2025 || Learn more about docker containers and optimised some Dockerfile of previous projects.
