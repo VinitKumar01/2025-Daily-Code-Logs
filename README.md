@@ -271,3 +271,5 @@ This repo is log of what i coded each day in 2025.
 9-5-2025 || Revised rust ownership and macros
 
 10-5-2025 || Learn more about docker containers and optimised some Dockerfile of previous projects.
+
+11-5-2025 || Learnt basics of lua.
