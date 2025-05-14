@@ -277,3 +277,5 @@ This repo is log of what i coded each day in 2025.
 12-5-2025 || Coded a basic monorepo project which have a http backend, frontend and websocket backend. Also created docker files for each backend/frontend to create CI and CD pipelines for deployement later.
 
 13-5-2025 || Fixed all the docker files created for the monorepo project yesterday.
+
+14-5-2025 || Learnt more about tables and metatables in lua.
