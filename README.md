@@ -283,3 +283,5 @@ This repo is log of what i coded each day in 2025.
 15-5-2025 || Revised/Re-implemented some sorting algorithms done previously as will continue DSA from tomorrow.
 
 16-5-2025 || Learnt bash scripting for system automation.
+
+17-5-2025 || Learnt and coded merge-sort.
