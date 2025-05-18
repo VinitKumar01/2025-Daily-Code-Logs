@@ -285,3 +285,5 @@ This repo is log of what i coded each day in 2025.
 16-5-2025 || Learnt bash scripting for system automation.
 
 17-5-2025 || Learnt and coded merge-sort.
+
+18-5-2025 || Coded some scripts and services for task automations.
