@@ -291,3 +291,5 @@ This repo is log of what i coded each day in 2025.
 19-5-2025 || Revised stl library of C++.
 
 20-5-2025 || Coded some sorting dsa questions in rust for practice.
+
+21-5-2025 || Learnt and coded quick-sort.
