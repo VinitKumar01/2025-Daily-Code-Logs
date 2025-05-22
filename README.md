@@ -293,3 +293,5 @@ This repo is log of what i coded each day in 2025.
 20-5-2025 || Coded some sorting dsa questions in rust for practice.
 
 21-5-2025 || Learnt and coded quick-sort.
+
+22-5-2025 || Implemented quick-sort in rust for practice.
