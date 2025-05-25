@@ -299,3 +299,5 @@ This repo is log of what i coded each day in 2025.
 23-5-2025 || Learnt DSA -> Basic array questions (second largest, second smallest, remove duplicate)
 
 24-5-2025 || Rewrite yesterday's DSA basic array problems in rust.
+
+25-5-2024 || Learnt more about nvim -> (navigation commands, custom configurations, plugin management etc.)
