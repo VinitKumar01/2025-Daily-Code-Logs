@@ -303,3 +303,5 @@ This repo is log of what i coded each day in 2025.
 25-5-2024 || Learnt more about nvim -> (navigation commands, custom configurations, plugin management etc.)
 
 26-5-2024 || Learnt more array problems -> reversing and array by k etc.
+
+27-5-2024 || Rewrite yesterday's dsa concepts in Rust.
