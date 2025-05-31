@@ -311,3 +311,5 @@ This repo is log of what i coded each day in 2025.
 29-5-2025 || Completed the turborepo CI/CD docker deployement project.
 
 30-5-2025 || Revised bash programming concepts.
+
+31-5-2025 || Learnt more about linux ricing and wrote some ricing scripts.
