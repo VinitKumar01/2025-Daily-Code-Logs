@@ -313,3 +313,7 @@ This repo is log of what i coded each day in 2025.
 30-5-2025 || Revised bash programming concepts.
 
 31-5-2025 || Learnt more about linux ricing and wrote some ricing scripts.
+
+-------------------------June---------------------------
+
+1-6-2025 || Revised lua programming concepts.
