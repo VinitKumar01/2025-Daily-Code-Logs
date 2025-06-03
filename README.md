@@ -319,3 +319,5 @@ This repo is log of what i coded each day in 2025.
 1-6-2025 || Revised lua programming concepts.
 
 2-6-2025 || Revised DSA concepts learnt before.
+
+3-6-2025 || Coded a ai article summarizer chrome extension (mostly done).
