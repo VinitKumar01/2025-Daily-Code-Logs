@@ -321,3 +321,5 @@ This repo is log of what i coded each day in 2025.
 2-6-2025 || Revised DSA concepts learnt before.
 
 3-6-2025 || Coded a ai article summarizer chrome extension (mostly done).
+
+4-6-2025 || Completed the ai article summarizer extension project for chrome and firefox both.
