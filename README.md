@@ -325,3 +325,5 @@ This repo is log of what i coded each day in 2025.
 4-6-2025 || Completed the ai article summarizer extension project for chrome and firefox both.
 
 5-6-2025 || Learnt more array problems -> move zero to end etc.
+
+6-6-2025 || Resolved some of the rustling practice sets to revise rust.
