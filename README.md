@@ -331,3 +331,5 @@ This repo is log of what i coded each day in 2025.
 7-6-2025 || Rewrite recent dsa problems in Rust -> move zero to end etc.
 
 8-6-2025 || Learnt more about firefox extension development from docs also today ai article summarizer extension got officially published to firefox addon store.
+
+9-6-2025 || Learnt more about all types of scripts and browser apis for extensions.
