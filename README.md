@@ -333,3 +333,5 @@ This repo is log of what i coded each day in 2025.
 8-6-2025 || Learnt more about firefox extension development from docs also today ai article summarizer extension got officially published to firefox addon store.
 
 9-6-2025 || Learnt more about all types of scripts and browser apis for extensions.
+
+10-6-2025 || Learnt more basic DSA array problems linear search etc.
