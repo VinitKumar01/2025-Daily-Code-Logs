@@ -335,3 +335,5 @@ This repo is log of what i coded each day in 2025.
 9-6-2025 || Learnt more about all types of scripts and browser apis for extensions.
 
 10-6-2025 || Learnt more basic DSA array problems linear search etc.
+
+11-6-2025 || Revised C programming concepts for college exams.
