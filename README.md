@@ -343,3 +343,5 @@ This repo is log of what i coded each day in 2025.
 13-6-2025 || Resolved more rustling problems.
 
 14-6-2025 || Learnt some basics about vertical and horizontal scaling.
+
+15-6-2025 || Learnt about cluster module in nodejs and how to use the module in vertical scaling.
