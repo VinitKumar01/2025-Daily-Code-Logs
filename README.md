@@ -345,3 +345,5 @@ This repo is log of what i coded each day in 2025.
 14-6-2025 || Learnt some basics about vertical and horizontal scaling.
 
 15-6-2025 || Learnt about cluster module in nodejs and how to use the module in vertical scaling.
+
+16-6-2025 || Learnt about ASGs in AWS also initialzed bolt for mobile apps project (done basic backend and database setup).
