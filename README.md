@@ -351,3 +351,5 @@ This repo is log of what i coded each day in 2025.
 17-6-2025 || Added clerk authentication to the bolt for mobile apps project.
 
 18-6-2025 || Added sidebar, theming and other frontend changes to the bolt for mobile apps project.
+
+19-6-2025 || Added ai response generator and parser to change file to docker container functionality to bolt for mobile apps project.
