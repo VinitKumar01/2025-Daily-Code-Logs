@@ -355,3 +355,5 @@ This repo is log of what i coded each day in 2025.
 19-6-2025 || Added ai response generator and parser to change file to docker container functionality to bolt for mobile apps project.
 
 20-6-2025 || Added project page to frontend to access chat history and code-server on a same page in bolt for mobile apps project.
+
+21-6-2025 || Coded the landing page, preview page, details page for truckspark project website.
