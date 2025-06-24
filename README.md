@@ -361,3 +361,5 @@ This repo is log of what i coded each day in 2025.
 22-6-2025 || Improved ui, created comparision page and basic backend routes for truckspark project website.
 
 23-6-2025 || Created admins dashboard to upload data, images and brochure pdf to db for truckspark project website.
+
+24-6-2025 || Made truckspark project website to get dynamic data from database instead of dummy data.
