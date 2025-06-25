@@ -363,3 +363,5 @@ This repo is log of what i coded each day in 2025.
 23-6-2025 || Created admins dashboard to upload data, images and brochure pdf to db for truckspark project website.
 
 24-6-2025 || Made truckspark project website to get dynamic data from database instead of dummy data.
+
+25-6-2025 || Made admin able to edit and delete data, improved some functionality, fixed some bugs, did better error handling on backend, connected some routes together etc. for truckspark project website.
