@@ -369,3 +369,5 @@ This repo is log of what i coded each day in 2025.
 26-6-2025 || Optimized the image gallery and comparision page and also did some final touches to the truckspark project website.
 
 27-6-2025 || Wrapped of TruckSpack project website by doing some bug fixies.
+
+28-6-2025 || Learnt about some more devops concepts like using nodejs to start and delete autoscaling servers on AWS.
