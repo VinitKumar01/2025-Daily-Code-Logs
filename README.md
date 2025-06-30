@@ -373,3 +373,5 @@ This repo is log of what i coded each day in 2025.
 28-6-2025 || Learnt about some more devops concepts like using nodejs to start and delete autoscaling servers on AWS.
 
 29-6-2025 || Learnt more about how to deploy containerized applications.
+
+30-6-2025 || Coded redis cache and docker files for frontend and backend also docker-compose file for truckspark project website.
