@@ -377,3 +377,5 @@ This repo is log of what i coded each day in 2025.
 30-6-2025 || Coded redis cache and docker files for frontend and backend also docker-compose file for truckspark project website.
 
 1-7-2025 || Added github worlflow to truckspark project website.
+
+2-7-2025 || Implemented cron-job for database cleanup of truckspark project website and also learnt about web-workers.
