@@ -379,3 +379,5 @@ This repo is log of what i coded each day in 2025.
 1-7-2025 || Added github worlflow to truckspark project website.
 
 2-7-2025 || Implemented cron-job for database cleanup of truckspark project website and also learnt about web-workers.
+
+3-7-2025 || Did some aws configurations for truckspark project website.
