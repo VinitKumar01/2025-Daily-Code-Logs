@@ -381,3 +381,5 @@ This repo is log of what i coded each day in 2025.
 2-7-2025 || Implemented cron-job for database cleanup of truckspark project website and also learnt about web-workers.
 
 3-7-2025 || Did some aws configurations for truckspark project website.
+
+4-7-2025 || Confirured autoscaling groups and loadbalancer routing for truckspark project website.
