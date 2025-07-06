@@ -385,3 +385,5 @@ This repo is log of what i coded each day in 2025.
 4-7-2025 || Confirured autoscaling groups and loadbalancer routing for truckspark project website.
 
 5-7-2025 || Almost wrapped truckspark project website by setting up and configuring everything on server.
+
+6-7-2025 || Added google ads to truckspark project and also made some changes.
