@@ -389,3 +389,5 @@ This repo is log of what i coded each day in 2025.
 6-7-2025 || Added google ads to truckspark project and also made some changes.
 
 7-7-2025 || Fixed redis caching for truckspark project website, also learnt basics of ERC and ECS in aws.
+
+8-7-2025 || Learnt more about ERC, ECS, Cluster, Services, Tasks in AWS and also learnt about monitoring with new-relic and windston.
