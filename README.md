@@ -391,3 +391,5 @@ This repo is log of what i coded each day in 2025.
 7-7-2025 || Fixed redis caching for truckspark project website, also learnt basics of ERC and ECS in aws.
 
 8-7-2025 || Learnt more about ERC, ECS, Cluster, Services, Tasks in AWS and also learnt about monitoring with new-relic and windston.
+
+9-7-2025 || Learnt basics of motion library -> whileHover, initial, animate, exit etc.
