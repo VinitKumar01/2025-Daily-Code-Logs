@@ -393,3 +393,5 @@ This repo is log of what i coded each day in 2025.
 8-7-2025 || Learnt more about ERC, ECS, Cluster, Services, Tasks in AWS and also learnt about monitoring with new-relic and windston.
 
 9-7-2025 || Learnt basics of motion library -> whileHover, initial, animate, exit etc.
+
+10-7-2025 || Learnt about useScroll, useTransform, useMotionValue etc. in motion library.
