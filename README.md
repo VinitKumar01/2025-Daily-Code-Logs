@@ -395,3 +395,5 @@ This repo is log of what i coded each day in 2025.
 9-7-2025 || Learnt basics of motion library -> whileHover, initial, animate, exit etc.
 
 10-7-2025 || Learnt about useScroll, useTransform, useMotionValue etc. in motion library.
+
+11-7-2025 || Learnt about animation sequenses in motion library also learnt about stripe payment integrations.
