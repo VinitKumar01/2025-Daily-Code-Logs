@@ -397,3 +397,5 @@ This repo is log of what i coded each day in 2025.
 10-7-2025 || Learnt about useScroll, useTransform, useMotionValue etc. in motion library.
 
 11-7-2025 || Learnt about animation sequenses in motion library also learnt about stripe payment integrations.
+
+12-7-2025 || Prepared a basic layout for frontend and backend for the clothing website project also learnt more about loadbalancers.
