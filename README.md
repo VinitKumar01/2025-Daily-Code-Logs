@@ -403,3 +403,5 @@ This repo is log of what i coded each day in 2025.
 13-7-2025 || Implemented basic setup for the clothing website project also learnt some about grpc.
 
 14-7-2025 || Implemented basic schema and clerk webhook for clothing website project.
+
+15-7-2025 || Implemented the backend routes of clothing website project.
