@@ -407,3 +407,5 @@ This repo is log of what i coded each day in 2025.
 15-7-2025 || Implemented the backend routes of clothing website project.
 
 16-7-2025 || Revised rust programming language concepts.
+
+17-7-2025 || Revised more rust programming language concepts.
