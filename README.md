@@ -409,3 +409,5 @@ This repo is log of what i coded each day in 2025.
 16-7-2025 || Revised rust programming language concepts.
 
 17-7-2025 || Revised more rust programming language concepts.
+
+18-7-2025 || Learnt more about macros in rust and meta-programming in general.
