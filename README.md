@@ -411,3 +411,5 @@ This repo is log of what i coded each day in 2025.
 17-7-2025 || Revised more rust programming language concepts.
 
 18-7-2025 || Learnt more about macros in rust and meta-programming in general.
+
+19-7-2025 || Learnt more about procedural macros and built my own serializer and deserializer in rust.
