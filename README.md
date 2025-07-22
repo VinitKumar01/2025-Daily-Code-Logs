@@ -417,3 +417,5 @@ This repo is log of what i coded each day in 2025.
 20-7-2025 || Revisited css after a long time and learnt some more properties that i don't even know existed.
 
 21-7-2025 || Revisited react hooks documentation for revision.
+
+22-7-2025 || Learnt more about function type procedural macros in rust with syn and quote libraries.
