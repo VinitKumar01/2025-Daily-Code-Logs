@@ -423,3 +423,5 @@ This repo is log of what i coded each day in 2025.
 23-7-2025 || Learnt more linux commands and configurations.
 
 24-7-2025 || Learnt to use supabase in project with authentication, real-time data triggers, storage bucket and also security policies based on authentication.
+
+25-7-2025 || Learnt basics of backend development in rust with actix.
