@@ -427,3 +427,5 @@ This repo is log of what i coded each day in 2025.
 25-7-2025 || Learnt basics of backend development in rust with actix.
 
 26-7-2025 || Learnt basics about search engine indexing and the maths behind it.
+
+27-7-2025 || Learnt some tailwindcss configurations and advanced properties.
