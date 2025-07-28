@@ -429,3 +429,5 @@ This repo is log of what i coded each day in 2025.
 26-7-2025 || Learnt basics about search engine indexing and the maths behind it.
 
 27-7-2025 || Learnt some tailwindcss configurations and advanced properties.
+
+28-7-2025 || Learnt about chrome devtools in more details.
