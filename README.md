@@ -431,3 +431,5 @@ This repo is log of what i coded each day in 2025.
 27-7-2025 || Learnt some tailwindcss configurations and advanced properties.
 
 28-7-2025 || Learnt about chrome devtools in more details.
+
+29-7-2025 || Started reading rust in action also coding the examples along.
