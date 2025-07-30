@@ -433,3 +433,5 @@ This repo is log of what i coded each day in 2025.
 28-7-2025 || Learnt about chrome devtools in more details.
 
 29-7-2025 || Started reading rust in action also coding the examples along.
+
+30-7-2025 || Learnt about MediaStream apis for recording also done some improvements in truckspark website.
