@@ -437,3 +437,7 @@ This repo is log of what i coded each day in 2025.
 30-7-2025 || Learnt about MediaStream apis for recording also done some improvements in truckspark website.
 
 31-7-2025 || Added more animations to the truckspark project also made some fixes.
+
+--------------------------------------------------August-----------------------------------------------------------------
+
+1-8-2025 || Added more animations on landing page of truckspark project website.
