@@ -441,3 +441,5 @@ This repo is log of what i coded each day in 2025.
 --------------------------------------------------August-----------------------------------------------------------------
 
 1-8-2025 || Added more animations on landing page of truckspark project website.
+
+2-8-2025 || Finished the v2 of truckspark project website and pushed to production.
