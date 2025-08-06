@@ -449,3 +449,5 @@ This repo is log of what i coded each day in 2025.
 4-8-2025 || Learnt a little about conditional compilation in rust and some more fundamental concepts from rust in action book.
 
 5-8-2025 || Went through my old projects and done some optimizations.
+
+6-8-2025 || Completed chapter-1 of rust in action book.
