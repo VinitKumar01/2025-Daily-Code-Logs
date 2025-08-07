@@ -451,3 +451,5 @@ This repo is log of what i coded each day in 2025.
 5-8-2025 || Went through my old projects and done some optimizations.
 
 6-8-2025 || Completed chapter-1 of rust in action book.
+
+7-8-2025 || Learnt some basics of system design also made some improvement commits to truckspark website.
