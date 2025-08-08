@@ -453,3 +453,5 @@ This repo is log of what i coded each day in 2025.
 6-8-2025 || Completed chapter-1 of rust in action book.
 
 7-8-2025 || Learnt some basics of system design also made some improvement commits to truckspark website.
+
+8-8-2025 || Learnt more about databases, transactions, isolation, database scaling both vertical and horizontal, sharding, partitioning, caching etc.
