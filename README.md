@@ -455,3 +455,5 @@ This repo is log of what i coded each day in 2025.
 7-8-2025 || Learnt some basics of system design also made some improvement commits to truckspark website.
 
 8-8-2025 || Learnt more about databases, transactions, isolation, database scaling both vertical and horizontal, sharding, partitioning, caching etc.
+
+9-8-2025 || Learnt more about different types of databases like relational, document type, key-value type, graph type and also made a commit to truckspark website.
