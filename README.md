@@ -459,3 +459,5 @@ This repo is log of what i coded each day in 2025.
 9-8-2025 || Learnt more about different types of databases like relational, document type, key-value type, graph type and also made a commit to truckspark website.
 
 10-8-2025 || Implemented database level redis caching for learning.
+
+11-8-2025 || Learnt some more system design -> caching, types of caching, cdns etc.
