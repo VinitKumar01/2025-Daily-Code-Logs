@@ -461,3 +461,5 @@ This repo is log of what i coded each day in 2025.
 10-8-2025 || Implemented database level redis caching for learning.
 
 11-8-2025 || Learnt some more system design -> caching, types of caching, cdns etc.
+
+12-8-2025 || Learnt some more system design -> message brokers, queues, real-time pubsub etc.
