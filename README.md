@@ -463,3 +463,5 @@ This repo is log of what i coded each day in 2025.
 11-8-2025 || Learnt some more system design -> caching, types of caching, cdns etc.
 
 12-8-2025 || Learnt some more system design -> message brokers, queues, real-time pubsub etc.
+
+13-8-2025 || coding a http server on top of tcp from scratch form bot.dev, today done till L5 in chapter 1.
