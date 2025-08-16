@@ -469,3 +469,5 @@ This repo is log of what i coded each day in 2025.
 14-8-2025 || completed ch-1,2 of http from tcp.
 
 15-8-2025 || Revised some dsa array sorting techniques.
+
+16-8-2025 || completed chapter-3 of http from tcp -> Learnt about http request formating like start line, headers, body, use of \r\n etc., also learnt to write tests using vitest library.
