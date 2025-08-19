@@ -475,3 +475,5 @@ This repo is log of what i coded each day in 2025.
 17-8-2025 || Coded the request parser for tcp to http.
 
 18-8-2025 || Learnt more about http.
+
+19-8-2025 || Try reverse engineering some websites.
