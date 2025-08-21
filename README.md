@@ -479,3 +479,5 @@ This repo is log of what i coded each day in 2025.
 19-8-2025 || Try reverse engineering some websites.
 
 20-8-2025 || Revised some initial dsa concepts.
+
+21-8-2025 || Learnt big O notation in more detail.
