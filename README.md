@@ -485,3 +485,5 @@ This repo is log of what i coded each day in 2025.
 22-8-2025 || Learnt basic sql commands.
 
 23-8-2025 || Explored some opensource repos for contributions.
+
+24-8-2025 || Explored some of new methods for javascript in build data types.
