@@ -491,3 +491,5 @@ This repo is log of what i coded each day in 2025.
 25-8-2025 || Learnt more about relational databases, concepts like data isolation, abstraction etc.
 
 26-8-2025 || Learnt about basics of stack in dsa.
+
+27-8-2025 || Revised fundamentals of python programming.
