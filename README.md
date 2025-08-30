@@ -497,3 +497,5 @@ This repo is log of what i coded each day in 2025.
 28-8-2025 || Learnt more dsa problems solving patterns like frequency count etc.
 
 29-8-2025 || Upgraded the apis of bolt-for-mobile-apps project.
+
+30-8-2025 || Did some improvements in bolt-for-mobile-apps project frontend and backend.
