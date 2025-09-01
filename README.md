@@ -501,3 +501,7 @@ This repo is log of what i coded each day in 2025.
 30-8-2025 || Did some improvements in bolt-for-mobile-apps project frontend and backend.
 
 31-8-2025 || Did some improvements in prompt storage schema also improved chat parsing on frontend for bolt-for-mobile-apps project.
+
+-----------------------------------------September-----------------------------------------------------
+
+1-9-2025 || Made some ui changes in bolt-for-mobile-apps project.
