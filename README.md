@@ -507,3 +507,5 @@ This repo is log of what i coded each day in 2025.
 1-9-2025 || Made some ui changes in bolt-for-mobile-apps project.
 
 2-9-2025 || Solved some dsa questions on recursion topic.
+
+3-9-2025 || Improved some ui and added some features like source code download to the bolt-for-mobile-apps project.
