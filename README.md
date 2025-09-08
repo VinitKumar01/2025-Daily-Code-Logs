@@ -517,3 +517,5 @@ This repo is log of what i coded each day in 2025.
 6-9-2025 || Learnt more about advanced javascript datatypes like ArrayBuffer and using it with Uint8Array, Uint16Array etc. and how javascript handles them like overflows etc.
 
 7-9-2025 || Practiced some dsa problems.
+
+8-9-2025 || Learnt and implement linked list with queue.
