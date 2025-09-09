@@ -519,3 +519,5 @@ This repo is log of what i coded each day in 2025.
 7-9-2025 || Practiced some dsa problems.
 
 8-9-2025 || Learnt and implement linked list with queue.
+
+9-9-2025 || Learnt and implemented stack.
