@@ -523,3 +523,5 @@ This repo is log of what i coded each day in 2025.
 9-9-2025 || Learnt and implemented stack.
 
 10-9-2025 || Revised all the dsa concepts learnt till now.
+
+11-9-2025 || Learnt more about how js arrays works behind the scenes -> learnt about arraylists, ring-buffers and there use-cases.
