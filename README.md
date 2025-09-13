@@ -527,3 +527,5 @@ This repo is log of what i coded each day in 2025.
 11-9-2025 || Learnt more about how js arrays works behind the scenes -> learnt about arraylists, ring-buffers and there use-cases.
 
 12-9-2025 || Revised rust syntax.
+
+13-9-2025 || Learnt more about recursion and implemented maze path finding algorithm.
