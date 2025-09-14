@@ -529,3 +529,5 @@ This repo is log of what i coded each day in 2025.
 12-9-2025 || Revised rust syntax.
 
 13-9-2025 || Learnt more about recursion and implemented maze path finding algorithm.
+
+14-9-2025 || Reimplemented the maze path finding algorithms and others for better understanding.
