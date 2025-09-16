@@ -533,3 +533,5 @@ This repo is log of what i coded each day in 2025.
 14-9-2025 || Reimplemented the maze path finding algorithms and others for better understanding.
 
 15-9-2025 || Learnt and implemented quick-sort.
+
+16-9-2025 || Learnt and implemented doubly linked list.
