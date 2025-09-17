@@ -535,3 +535,5 @@ This repo is log of what i coded each day in 2025.
 15-9-2025 || Learnt and implemented quick-sort.
 
 16-9-2025 || Learnt and implemented doubly linked list.
+
+17-9-2025 || Learnt and implemented DFS & BFS for binary tree.
