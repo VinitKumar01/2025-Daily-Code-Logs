@@ -539,3 +539,5 @@ This repo is log of what i coded each day in 2025.
 17-9-2025 || Learnt and implemented DFS & BFS for binary tree.
 
 18-9-2025 || Learnt and implemented comparision of binary trees and DFS on a sorted binary tree.
+
+19-9-2025 || Learnt and implemented heaps - minHeap and maxHeap.
