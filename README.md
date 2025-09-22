@@ -545,3 +545,5 @@ This repo is log of what i coded each day in 2025.
 20-9-2025 || Tried to understand more about the n8n github repo.
 
 21-9-2025 || Created a pull request to n8n github repo fixing a bug in markdown to html converter node.
+
+22-9-2025 || Learnt about graphs also implemented BFS on a graph adjacent matrix.
