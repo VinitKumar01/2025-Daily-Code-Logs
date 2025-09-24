@@ -549,3 +549,5 @@ This repo is log of what i coded each day in 2025.
 22-9-2025 || Learnt about graphs also implemented BFS on a graph adjacent matrix.
 
 23-9-2025 || Learnt and implemented DFS in graphs also implemented Dijkstra's shortest path algorithm.
+
+24-9-2025 || Learnt about hash maps also implemented LRU cache.
