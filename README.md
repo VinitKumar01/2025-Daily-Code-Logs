@@ -553,3 +553,5 @@ This repo is log of what i coded each day in 2025.
 24-9-2025 || Learnt about hash maps also implemented LRU cache.
 
 25-9-2025 || Learnt basics of Go like packages etc.
+
+26-9-2025 || Learnt more about datatypes in Go like collections, slices, maps etc. Also learnt if-else, for loop, switch-case etc.
