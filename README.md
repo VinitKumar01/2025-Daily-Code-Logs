@@ -559,3 +559,5 @@ This repo is log of what i coded each day in 2025.
 27-9-2025 || Learnt about pointers, type deceleration, creating custom packages etc. in Go, also solved some dsa questions.
 
 28-9-2025 || Learnt about structs, interfaces, go routines and channels in Go.
+
+29-9-2025 || Learnt basics go http package in go by making a basic crypto finder.
