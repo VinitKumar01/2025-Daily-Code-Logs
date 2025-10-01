@@ -563,3 +563,7 @@ This repo is log of what i coded each day in 2025.
 29-9-2025 || Learnt basics go http package in go by making a basic crypto finder.
 
 30-9-2025 || Learnt serving static files with http using go also using templates. Also created rest apis in go.
+
+--------------------------------------------------October--------------------------------------------------
+
+1-10-2025 || Building a web scraper in go, implemented the basic http server boilerplate today.
