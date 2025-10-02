@@ -567,3 +567,5 @@ This repo is log of what i coded each day in 2025.
 --------------------------------------------------October--------------------------------------------------
 
 1-10-2025 || Building a web scraper in go, implemented the basic http server boilerplate today.
+
+2-10-2025 || Implemented database boilerplate and schema for the web scraper in go.
