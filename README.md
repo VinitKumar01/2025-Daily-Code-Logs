@@ -571,3 +571,5 @@ This repo is log of what i coded each day in 2025.
 2-10-2025 || Implemented database boilerplate and schema for the web scraper in go.
 
 3-10-2025 || Implemented the authentication middleware, feeds, feedfollows etc. for the web scraper in go project.
+
+4-10-2025 || Implemented the rss feed scraper logic to the web scraper in go project.
