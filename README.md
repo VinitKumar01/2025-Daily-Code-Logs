@@ -575,3 +575,5 @@ This repo is log of what i coded each day in 2025.
 4-10-2025 || Implemented the rss feed scraper logic to the web scraper in go project.
 
 5-10-2025 || Wrapped up the web scraper in go project.
+
+6-10-2025 || Learnt about javascript performance and reading devtools charts for optimizations.
