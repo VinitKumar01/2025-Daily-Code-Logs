@@ -577,3 +577,5 @@ This repo is log of what i coded each day in 2025.
 5-10-2025 || Wrapped up the web scraper in go project.
 
 6-10-2025 || Learnt about javascript performance and reading devtools charts for optimizations.
+
+7-10-2025 || Learnt more about v8 garbage collections and javascript async hook performance problems.
