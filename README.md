@@ -583,3 +583,5 @@ This repo is log of what i coded each day in 2025.
 8-10-2025 || Learnt and implemented performance optimizations in a test-project by using arrays instead of sets and converting async code to sync.
 
 9-10-2025 || Learnt about some of relatively new javascript features like generators, iterators, async generators etc.
+
+10-10-2025 || Learnt about decorators in js.
