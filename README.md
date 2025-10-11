@@ -585,3 +585,5 @@ This repo is log of what i coded each day in 2025.
 9-10-2025 || Learnt about some of relatively new javascript features like generators, iterators, async generators etc.
 
 10-10-2025 || Learnt about decorators in js.
+
+11-10-2025 || Learnt about some concurrency patterns in go lang.
