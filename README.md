@@ -587,3 +587,5 @@ This repo is log of what i coded each day in 2025.
 10-10-2025 || Learnt about decorators in js.
 
 11-10-2025 || Learnt about some concurrency patterns in go lang.
+
+12-10-2025 ||Revised basic dsa concepts for exam.
