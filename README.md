@@ -588,4 +588,6 @@ This repo is log of what i coded each day in 2025.
 
 11-10-2025 || Learnt about some concurrency patterns in go lang.
 
-12-10-2025 ||Revised basic dsa concepts for exam.
+12-10-2025 || Revised basic dsa concepts for exam.
+
+13-10-2025 || Revised python programming basics for exam.
