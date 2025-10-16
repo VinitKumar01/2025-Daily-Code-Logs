@@ -595,3 +595,5 @@ This repo is log of what i coded each day in 2025.
 14-10-2025 || Read code from n8n github repo.
 
 15-10-2025 || Learnt more about javascript performance like using memory pool, logging can also cause performance issues.
+
+16-10-2025 || Learnt some basics about protobufs in go.
