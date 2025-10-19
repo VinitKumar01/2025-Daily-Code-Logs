@@ -601,3 +601,5 @@ This repo is log of what i coded each day in 2025.
 17-10-2025 || Did some research for my next project's required toolings.
 
 18-10-2025 || Implemented the basic structure of n8n-clone project.
+
+19-10-2025 || Implemented the sidebar and workspace ui for n8n-clone project.
