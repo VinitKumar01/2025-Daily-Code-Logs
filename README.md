@@ -605,3 +605,5 @@ This repo is log of what i coded each day in 2025.
 19-10-2025 || Implemented the sidebar and workspace ui for n8n-clone project.
 
 20-10-2025 || Learnt to make MCP servers using the modelcontextprotocol typescript sdk.
+
+21-10-2025 || Implemented some react flows to learn to build custom flows.
