@@ -609,3 +609,5 @@ This repo is log of what i coded each day in 2025.
 21-10-2025 || Implemented some react flows to learn to build custom flows.
 
 22-10-2025 || Implemented basic gemini node backend in n8n-clone project.
+
+23-10-2025 || Implemented a task scheduler from scratch in go for n8n-clone project, learnt about mutex along the way.
