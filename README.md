@@ -613,3 +613,5 @@ This repo is log of what i coded each day in 2025.
 23-10-2025 || Implemented a task scheduler from scratch in go for n8n-clone project, learnt about mutex along the way.
 
 24-10-2025 || Implemented task queue from scratch in go for n8n-clone project, also fixed the task scheduler.
+
+25-10-2025 || Implemented database, user schema and its handlers in n8n-clone project.
