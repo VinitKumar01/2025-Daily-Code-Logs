@@ -619,3 +619,5 @@ This repo is log of what i coded each day in 2025.
 26-10-2025 || Implemented schema and queries for workflow.
 
 27-10-2025 || Implemented workflow handlers in n8n-clone project.
+
+28-10-2025 || Setup the owsap/nest locally and went through some code.
