@@ -625,3 +625,5 @@ This repo is log of what i coded each day in 2025.
 29-10-2025 || Implemented a solution for issue #2439 on owasp/Nest repo.
 
 30-10-2025 || Revised some dsa concepts.
+
+31-10-2025 || Learnt and coded some tests for React based frontends using vitest.
