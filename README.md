@@ -637,3 +637,5 @@ This repo is log of what i coded each day in 2025.
 3-11-2025 || Implementd manuall trigger node and show output node in n8n-clone project.
 
 4-11-2025 || Implemented Gemini node on frontend in n8n-clone project.
+
+5-11-2025 || Modified the Gemini node on frontend.
