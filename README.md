@@ -641,3 +641,5 @@ This repo is log of what i coded each day in 2025.
 5-11-2025 || Modified the Gemini node on frontend.
 
 6-11-2025 || Solved some dsa questions for practice.
+
+7-11-2025 || Tried some implementations for httpListener node on frontend but didn't find anyone workable.
