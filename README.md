@@ -645,3 +645,5 @@ This repo is log of what i coded each day in 2025.
 7-11-2025 || Tried some implementations for httpListener node on frontend but didn't find anyone workable.
 
 8-11-2025 || Solved some more dsa questions for practice.
+
+9-11-2025 || Implemented clerk webhook for n8n-clone project.
