@@ -650,4 +650,6 @@ This repo is log of what i coded each day in 2025.
 
 10-11-2025 || Solved dsa questions.
 
-11-10-2025 || Learnt about agent tools in google-ai-adk.
+11-11-2025 || Learnt about agent tools in google-ai-adk.
+
+12-11-2025 || Learnt about mcp servers, session state and agent memory management.
