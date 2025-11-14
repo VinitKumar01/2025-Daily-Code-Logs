@@ -655,3 +655,5 @@ This repo is log of what i coded each day in 2025.
 12-11-2025 || Learnt about mcp servers, session state and agent memory management.
 
 13-11-2025 || Learnt about agent observability and agent evaluation in google-adk.
+
+14-11-2025 || Learnt about agent to agent communication and deployment with google-adk.
