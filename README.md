@@ -657,3 +657,5 @@ This repo is log of what i coded each day in 2025.
 13-11-2025 || Learnt about agent observability and agent evaluation in google-adk.
 
 14-11-2025 || Learnt about agent to agent communication and deployment with google-adk.
+
+15-11-2025 || Implemented the agent to agent using google-adk code.
