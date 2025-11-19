@@ -665,3 +665,5 @@ This repo is log of what i coded each day in 2025.
 17-11-2025 || Solved more dsa question (3some).
 
 18-11-2025 || Solved more dsa problems (max water between containers and max profit on stock sell, etc).
+
+19-11-2025 || Revised dsa concepts.
