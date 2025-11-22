@@ -671,3 +671,5 @@ This repo is log of what i coded each day in 2025.
 20-11-2025 || Tried to solve dsa questions but failed to get anyone correct.
 
 21-11-2025 || Learnt about indexing and hashing of databases.
+
+22-11-2025 || Solved more dsa questions (Longest Repeating Character Replacement).
