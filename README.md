@@ -675,3 +675,5 @@ This repo is log of what i coded each day in 2025.
 22-11-2025 || Solved more dsa questions (Longest Repeating Character Replacement).
 
 23-11-2025 || Went through previously solved dsa question solutions, also revised non linear data structures like trees and graph.
+
+24-11-2025 || Solved basic stack questions like valid parenthesis etc.
