@@ -677,3 +677,5 @@ This repo is log of what i coded each day in 2025.
 23-11-2025 || Went through previously solved dsa question solutions, also revised non linear data structures like trees and graph.
 
 24-11-2025 || Solved basic stack questions like valid parenthesis etc.
+
+25-11-2025 || Updated a friends portfolio and deployed it.
