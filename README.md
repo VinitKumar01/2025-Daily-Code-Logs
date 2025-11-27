@@ -681,3 +681,5 @@ This repo is log of what i coded each day in 2025.
 25-11-2025 || Updated a friends portfolio and deployed it.
 
 26-11-2025 || Tried to solve a leetcode hard dsa question but failed to get it correct.
+
+27-11-2025 || Learnt about serverless, cloudflare workers, hono, prisma acclerate etc.
