@@ -685,3 +685,5 @@ This repo is log of what i coded each day in 2025.
 27-11-2025 || Learnt about serverless, cloudflare workers, hono, prisma acclerate etc.
 
 28-11-2025 || Learnt basics about Kubernetes - pods, nodes, kind and kubectl cli etc.
+
+29-11-2025 || Learnt about replicasets and deployements in kubernetes.
