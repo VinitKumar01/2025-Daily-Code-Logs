@@ -687,3 +687,5 @@ This repo is log of what i coded each day in 2025.
 28-11-2025 || Learnt basics about Kubernetes - pods, nodes, kind and kubectl cli etc.
 
 29-11-2025 || Learnt about replicasets and deployements in kubernetes.
+
+30-11-2025 || Implemented save workflow functionality to n8n-clone project.
