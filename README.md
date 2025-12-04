@@ -697,3 +697,5 @@ This repo is log of what i coded each day in 2025.
 2-12-2025 || Solved advent of code 2025 day 2 puzzles and also fixed the workflow save bug in n8n project.
 
 3-12-2025 || Solved day 3 puzzles of advent of code 2025.
+
+4-12-2025 || Solved day 4 puzzles of advent of code 2025.
