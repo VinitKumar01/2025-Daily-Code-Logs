@@ -701,3 +701,5 @@ This repo is log of what i coded each day in 2025.
 4-12-2025 || Solved day 4 puzzles of advent of code 2025.
 
 5-12-2025 || Solved day 5 puzzles of advent of code 2025.
+
+6-12-2025 || Solved day 6 puzzles of advent of code 2025.
