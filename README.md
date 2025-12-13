@@ -715,3 +715,5 @@ This repo is log of what i coded each day in 2025.
 11-12-2025 || Solved day 10 puzzles of advent of code 2025.
 
 12-12-2025 || Revised basic concepts of kubernetes.
+
+13-12-2025 || Learnt about services in kubernetes -> NodePort, Loadbalancer & ClusterIp.
