@@ -717,3 +717,5 @@ This repo is log of what i coded each day in 2025.
 12-12-2025 || Revised basic concepts of kubernetes.
 
 13-12-2025 || Learnt about services in kubernetes -> NodePort, Loadbalancer & ClusterIp.
+
+14-12-2025 || Revised go lang basics.
