@@ -721,3 +721,5 @@ This repo is log of what i coded each day in 2025.
 14-12-2025 || Revised go lang basics.
 
 15-12-2025 || Revised kubernetes and docker basics.
+
+16-12-2025 || Learnt about namespaces in kubernetes.
