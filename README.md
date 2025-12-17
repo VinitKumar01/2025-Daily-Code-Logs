@@ -723,3 +723,5 @@ This repo is log of what i coded each day in 2025.
 15-12-2025 || Revised kubernetes and docker basics.
 
 16-12-2025 || Learnt about namespaces in kubernetes.
+
+17-12-2025 || Built a basic crud websocket project to remember its syntax.
