@@ -733,3 +733,5 @@ This repo is log of what i coded each day in 2025.
 20-12-2025 || Learnt about zip(), frozenset(), warlus operator etc. in python.
 
 21-12-2025 || Re-solved basic some dsa questions.
+
+22-12-2025 || Revised go basics.
