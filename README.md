@@ -735,3 +735,5 @@ This repo is log of what i coded each day in 2025.
 21-12-2025 || Re-solved basic some dsa questions.
 
 22-12-2025 || Revised go basics.
+
+23-12-2025 || Learnt about lambda functions, generators, decorators, compreshension of lists, sets, dictionaries and generators.
