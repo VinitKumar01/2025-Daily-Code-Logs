@@ -739,3 +739,5 @@ This repo is log of what i coded each day in 2025.
 23-12-2025 || Learnt about lambda functions, generators, decorators, compreshension of lists, sets, dictionaries and generators.
 
 24-12-2025 || Learnt about classes, object namespace, attribute shadowing, inheritance, method resolution order, property decorators etc.
+
+25-12-2025 || Revised kubernetes concepts.
