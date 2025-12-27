@@ -743,3 +743,5 @@ This repo is log of what i coded each day in 2025.
 25-12-2025 || Revised kubernetes concepts.
 
 26-12-2025 || Learnt about error handling in python, creating custom exceptions, file handling etc.
+
+27-12-2025 || Learnt about concurrency vs parallelism, thread vs process, locks etc. in python.
