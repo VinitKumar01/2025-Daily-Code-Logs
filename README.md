@@ -751,3 +751,5 @@ This repo is log of what i coded each day in 2025.
 29-12-2025 || Learnt basics of pydantic -> defining models using base model, field validator and model validator decorator etc.
 
 30-12-2025 || Revised python programming concepts for exam.
+
+31-12-2025 || Revised locks in python.
